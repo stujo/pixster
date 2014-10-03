@@ -7,6 +7,7 @@ GEM
     mini_portile (0.6.0)
     nokogiri (1.6.3.1)
       mini_portile (= 0.6.0)
+    rmagick (2.13.3)
     typhoeus (0.6.9)
       ethon (>= 0.7.1)
 
@@ -15,4 +16,5 @@ PLATFORMS
 
 DEPENDENCIES
   nokogiri
+  rmagick
   typhoeus
